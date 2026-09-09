@@ -1,5 +1,3 @@
-
-
 Entry-level IT support portfolio focused on Windows troubleshooting, support documentation, ticket triage, and network diagnosis.
 
 ## Start here
@@ -30,4 +28,4 @@ These are personal portfolio projects. They do not represent paid IT work, live-
 
 ## Current goal
 
-Seeking entry-level Help Desk, Service Desk, Desktop Support, Endpoint Support, or IT Support work in Raleigh or remotely when location and schedule rules fit.
+Seeking entry-level Help Desk, Service Desk, Desktop Support, Endpoint Support, or IT Support work remotely where location and schedule rules fit.
